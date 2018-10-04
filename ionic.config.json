@@ -1,0 +1,8 @@
+{
+  "name": "Tutoring",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "00c57912"
+}
